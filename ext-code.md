@@ -36,3 +36,9 @@
 }
 ```
 ---
+
+[**Início**](https://github.com/figueiredo-alef/configuracoes/blob/master/README.md) | [**Anterior**](https://github.com/figueiredo-alef/configuracoes/blob/master/pycharm.md)
+
+---
+
+Feito por [Matheus Figueiredo](https://github.com/matheusF23/configurations)
