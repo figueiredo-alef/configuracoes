@@ -40,3 +40,9 @@
     - Ative show-apps-at-top.
 
 ---
+
+[**Início**](https://github.com/figueiredo-alef/configuracoes/blob/master/README.md) | [**Próximo**](https://github.com/figueiredo-alef/configuracoes/blob/master/git-%26-ssh.md)
+
+---
+
+Feito por [Alef Figueiredo](https://github.com/figueiredo-alef)
