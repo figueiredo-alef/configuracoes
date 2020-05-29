@@ -30,3 +30,9 @@
   $ pip freeze > requirements.txt
   ```
 ---
+
+[**Início**](https://github.com/figueiredo-alef/configuracoes/blob/master/README.md) | [**Anterior**](https://github.com/figueiredo-alef/configuracoes/blob/master/oh-my-zsh.md) | [**Próximo**](https://github.com/figueiredo-alef/configuracoes/blob/master/ext-code.md)
+
+---
+
+Feito por [Alef Figueiredo](https://github.com/figueiredo-alef)
