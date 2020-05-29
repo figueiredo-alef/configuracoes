@@ -1,10 +1,5 @@
 # Instalação do tema Flat-Remix em qualquer distro Linux
 
-* Instale o Git, caso não o tenha, para que o repositório remoto seja clonado:
-  ```
-  $ sudo apt install git
-  ```
-  
 * Procure e instale o GNOME-TWEAKS (ajustes do gnome) via Ubuntu Store:
 
 * Agora clone o primeiro repositório (Icon set):
