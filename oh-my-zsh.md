@@ -70,3 +70,9 @@
   * Salve o arquivo e reinicie a Sessão.
 
 ---
+
+[**Início**](https://github.com/figueiredo-alef/configuracoes/blob/master/README.md) | [**Anterior**](https://github.com/figueiredo-alef/configuracoes/blob/master/outros-programas.md) | [**Próximo**](https://github.com/figueiredo-alef/configuracoes/blob/master/pycharm.md)
+
+---
+
+Feito por [Alef Figueiredo](https://github.com/figueiredo-alef)
