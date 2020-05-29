@@ -39,3 +39,9 @@
 - Copiar chave e configurar no GitHub ou GitLab
 
 ---
+
+[**Início**](https://github.com/figueiredo-alef/configuracoes/blob/master/README.md) | [**Anterior**](https://github.com/figueiredo-alef/configuracoes/blob/master/config-basic.md) | [**Próximo**](https://github.com/figueiredo-alef/configuracoes/blob/master/flat-remix.md)
+
+---
+
+Feito por [Alef Figueiredo](https://github.com/figueiredo-alef)
