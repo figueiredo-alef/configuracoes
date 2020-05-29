@@ -20,7 +20,7 @@
   
   $ ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"
   ```
-* Digite o comando abaixo para abrir o arquivo oculto .zshrc:
+* Execute o comando abaixo para abrir o arquivo oculto .zshrc:
   ```
   $ code ~/.zshrc
   ```
