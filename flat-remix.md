@@ -35,3 +35,8 @@
 * Abra o GNOME-TWEAKS e na seção aparência escolha o tema dentre os novos de acordo com sua preferência!
 
 ---
+[**Início**](https://github.com/figueiredo-alef/configuracoes/blob/master/README.md) | [**Anterior**](https://github.com/figueiredo-alef/configuracoes/blob/master/git-%26-ssh.md) | [**Próximo**](https://github.com/figueiredo-alef/configuracoes/blob/master/outros-programas.md)
+
+---
+
+Feito por [Alef Figueiredo](https://github.com/figueiredo-alef)
