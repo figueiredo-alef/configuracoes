@@ -1,4 +1,4 @@
-# Extenses VScode
+# Extensões VScode
 
 **Extensions**
 * Code Runner
