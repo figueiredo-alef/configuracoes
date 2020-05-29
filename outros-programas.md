@@ -30,3 +30,9 @@
   $ sudo snap install code --classic
   ```
 ---
+
+[**Início**](https://github.com/figueiredo-alef/configuracoes/blob/master/README.md) | [**Anterior**](https://github.com/figueiredo-alef/configuracoes/blob/master/flat-remix.md) | [**Próximo**](https://github.com/figueiredo-alef/configuracoes/blob/master/oh-my-zsh.md)
+
+---
+
+Feito por [Alef Figueiredo](https://github.com/figueiredo-alef)
