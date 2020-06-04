@@ -46,12 +46,16 @@
   SPACESHIP_CHAR_SYMBOL="❯"
   SPACESHIP_CHAR_SUFFIX=" "
   ```
-  * Salve o arquivo.
+* Salve o arquivo. Reinicie o Terminal.
 
 * Instale o zinit:
   ```
   $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zinit/master/doc/install.sh)"
   ```
+  
+* Digite "y" e pressione "Enter".
+
+  
 * Insira as configurações abaixo no arquivo .zshrc:
   ```
   zinit light zsh-users/zsh-autosuggestions
