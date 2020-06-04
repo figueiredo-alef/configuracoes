@@ -14,6 +14,15 @@
   ```
 **OBS:** Durante a instalação do Oh My ZSH será questionado se você deseja alterar o seu shell padrão para o ZSH, basta digitar “Y” e pressionar “Enter”. Digite sua senha em seguida e pressione "Enter".
 
+* Instale o FiraCode: 
+  * Antes de iniciar a configuração do Spaceship precisamos instalar a fonte Fira Code que possui diversos ícones dos quais são utilizados nesse tema. Baixe o zip da última versão da fonte disponível aqui: [FIRACODE](https://github.com/tonsky/FiraCode/releases).
+  * Descompacte o arquivo baixado e copie os arquivos de fontes da pasta TTF. Na pasta pessoal crie uma pasta .fontes e cole os arquivos nela.
+  * Após a cópia das fontes, feche os programas abertos e execute:
+  ```
+  $ sudo fc-cache -f -v
+  ```
+  * Depois disso será necessário configurar seu terminal com essa fonte.
+
 * Instale o SPACESHIP:
   ```
   $ git clone https://github.com/denysdovhan/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt"
