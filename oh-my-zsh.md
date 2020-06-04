@@ -16,7 +16,7 @@
 
 * Instale o FiraCode: 
   * Antes de iniciar a configuração do Spaceship precisamos instalar a fonte Fira Code que possui diversos ícones dos quais são utilizados nesse tema. Baixe o zip da última versão da fonte disponível aqui: [FIRACODE](https://github.com/tonsky/FiraCode/releases).
-  * Descompacte o arquivo baixado e copie os arquivos de fontes da pasta TTF. Na pasta pessoal crie uma pasta .fontes e cole os arquivos nela.
+  * Descompacte o arquivo baixado e copie os arquivos de fontes da pasta TTF. Na pasta pessoal crie uma pasta .fonts e cole os arquivos nela.
   * Após a cópia das fontes, feche os programas abertos e execute:
   ```
   $ sudo fc-cache -f -v
