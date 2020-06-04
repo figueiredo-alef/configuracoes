@@ -12,7 +12,7 @@
   ```
   $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
   ```
-**OBs:** Durante a instalação do Oh My ZSH será questionado se você deseja alterar o seu shell padrão para o ZSH, basta digitar “Y” e pressionar “Enter”.
+**OBs:** Durante a instalação do Oh My ZSH será questionado se você deseja alterar o seu shell padrão para o ZSH, basta digitar “Y” e pressionar “Enter”. Digite sua senha em seguida e pressione "Enter".
 
 * Instale o SPACESHIP:
   ```
@@ -26,7 +26,7 @@
   ```
   * Ao abrir altere a variável que contém o nome do tema para ZSH_THEME="spaceship" e salve o arquivo.
 
-* Reinicie a Sessão.
+* Reinicie a Sessão (sem fechar o Terminal).
 * Abra novamente o arquivo .zshrc e adicione a configuração abaixo:
   ```
   SPACESHIP_PROMPT_ORDER=(
