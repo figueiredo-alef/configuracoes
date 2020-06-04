@@ -27,9 +27,11 @@
 
 - Pressione a tecla Super (ícone do Windows) e pesquise por Suporte a Idiomas. Será realizada uma busca por atualizações automaticamente. Reinicie a Sessão caso seja solicitado.
 
+- Instalar a versão mais recente do Chrome requer [baixar o pacote .deb](https://www.google.com/intl/pt-BR/chrome/)
+
 - Altere a versão padrão do Python:
   ```
-  $ sudo ln -sf /usr/bin/python3.8 /usr/bin/python
+  $ sudo ln -sf /usr/bin/python3.6 /usr/bin/python
   ```
 
 - Instale o dconf Editor via Ubuntu Store.
