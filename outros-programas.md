@@ -6,7 +6,7 @@
 
 * Instalar a versão mais recente do Thunderbird:
   ```
-  $ sudo snap install tunderbird
+  $ sudo snap install --edge thunderbird
   ```
 
 * Instalar a versão mais recente do Gnome-Calendar:
