@@ -11,7 +11,12 @@
 
 * Instalar a versão mais recente do Gnome-Calendar:
   ```
-  $ sudo snap install gnome-calendar
+  $ sudo apt install gnome-calendar
+  ```
+  
+* Instalar a versão mais recente do Gnome-Calculator:
+  ```
+  $ sudo apt install gnome-calculator
   ```
   
 * Instalar a versão mais recente do Telegram:
@@ -27,6 +32,10 @@
 * Instalar a versão mais recente do Visual Studio Code:
   ```
   $ sudo snap install code --classic
+  ```
+  * Checar atualizações:
+  ```
+  $ sudo snap refresh code 
   ```
 ---
 
